@@ -25,3 +25,5 @@ public class NonStaticInt {
 	}
 
 }
+Console 60
+         6
