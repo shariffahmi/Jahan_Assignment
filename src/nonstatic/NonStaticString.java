@@ -27,3 +27,6 @@ public class NonStaticString {
 	}
 
 }
+Console 
+	Fahmi Sharif
+        evacuation allert "mandatory evacuation"
