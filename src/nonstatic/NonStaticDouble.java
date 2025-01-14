@@ -25,3 +25,6 @@ public class NonStaticDouble {
 	}
 
 }
+console 
+	Sum of :9.4
+Multiply of :200.0
